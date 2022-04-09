@@ -41,6 +41,7 @@ import com.example.pictgram.form.TopicForm;
 import com.example.pictgram.form.UserForm;
 import com.example.pictgram.repository.TopicRepository;
 
+import java.util.Locale;
 import com.example.pictgram.entity.Favorite;
 import com.example.pictgram.form.FavoriteForm;
 
